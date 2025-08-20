@@ -5,7 +5,7 @@ This project focuses on identifying patterns of fraudulent credit card transacti
 2. Tools Utilized
 **Microsoft Excel** – Data cleaning, filtering, and preliminary analysis
 
-**Google Looker Studio **– Development of interactive dashboards
+**Google Looker Studio** – Development of interactive dashboards
 
 **IBM Cognos Analytics** – Generation of structured reports and narrative insights
 
